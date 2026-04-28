@@ -1,0 +1,7 @@
+					Machine Learning Assignment on SVM
+	Date of Assignment: 16/04/206									Last Date Before : 22/04/2026 05:00 PM
+
+
+(i) Explain SVM and describe the concept of a hyperplane and its role in classification. 
+(ii) Discuss the idea of maximum margin and why it is important for generalization. 
+(iii) Explain the role of the regularization parameter C and how it influences the trade-off between margin maximization and classification error.
